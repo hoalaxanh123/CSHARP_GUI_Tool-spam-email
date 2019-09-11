@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\obj\Debug\ToolSendMail.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\obj\Debug\ToolSendMail.Form1.resources
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\obj\Debug\ToolSendMail.Properties.Resources.resources
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\obj\Debug\ToolSendMail.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\obj\Debug\ToolSendMail.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\bin\Debug\DotLiquid.dll
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\obj\Debug\ToolSendMail.csproj.CopyComplete
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\bin\Debug\ToolSendMail-Code by 150289 IT DLU.exe.config
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\bin\Debug\ToolSendMail-Code by 150289 IT DLU.exe
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\bin\Debug\ToolSendMail-Code by 150289 IT DLU.pdb
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\obj\Debug\ToolSendMail-Code by 150289 IT DLU.exe
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\obj\Debug\ToolSendMail-Code by 150289 IT DLU.pdb
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\bin\Debug\ToolSendMail-Code by 150289 IT DLU.exe.manifest
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\bin\Debug\ToolSendMail-Code by 150289 IT DLU.application
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\obj\Debug\ToolSendMail-Code by 150289 IT DLU.exe.manifest
+C:\Users\Admin\source\repos\ToolSendMail\ToolSendMail\obj\Debug\ToolSendMail-Code by 150289 IT DLU.application
